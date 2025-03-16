@@ -5,7 +5,17 @@ This repo documents my progress through TryHackMe's **Pre-Security Path**, cover
 This serves as a reference for key learnings and practical exercises I've encountered.
 
 ## Topics Covered
-### 1️⃣ Networking Fundamentals
+### 1️⃣ Introduction to Cyber Security
+- **Offensive Security Imtro** - Understanding how attackers think and exploit vulnerabilities.
+  - Exploring common attack vectors such as phising and social engineering.
+  - Understading the improtance of penetration testing in security assessments.
+ 
+- **Defensive Security Intro** - Implementing security controls to mitigae attacks.
+  - Configuring basic firewall rules useing 'ufw' on linux:
+
+
+
+Networking Fundamentals
 - **OSI & TCP/IP Models:** Understanding data flow.
 - **Common Protocols:** HTTP, HTTPS, TCP, UDP, ICMP, DNS.
 - **Networking Tools:**
