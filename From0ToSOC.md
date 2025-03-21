@@ -18,6 +18,10 @@ To be SOC job-ready and qualified for a role like Strada Global's SOC Analyst po
 - [x] Created GitHub to track lab setup and learning
 - [x] Documented learning progress in markdown
 
+      ### 📘 Notes
+- [Week 1 – Lab Setup & Foundations](./Notes/Week1_LabSetup.md)
+
+
 ### 📅 Week 2: Core Concepts + Basic Tools
 - [x] Learned basics of malware and network traffic
 - [x] Practiced capturing packets with Wireshark
