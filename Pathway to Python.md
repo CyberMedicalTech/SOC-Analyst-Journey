@@ -4,6 +4,24 @@ Welcome to my personal learning repo where I document everything I'm learning ab
 then working through Python-related rooms and paths on [TryHackMe](https://tryhackme.com).
 
 ---
+print("Enter text to print to screen")
+input() *designed to take input from the user and converts to string.
+
+print("Hello, welcome to the cafe!")
+
+name = input("What is your name? ")
+
+print("Hello " + name + ", Thank you so much for coming in today.")
+
+menu = "Black Coffee, Espresso, Latte, Cappuccino, Frappuccino"
+
+menu = input("Here is what we are serving today: " + menu + "\nWhat would you like?\n")
+
+print("Great, " + menu + " Coming right up!")
+
+order = input("Can I get your order number for " + name + "?\n")
+
+print("Sounds good " + name + "! We'll have that " + menu + " ready for you in a moment!!")
 
 ## 📅 Learning Timeline
 
